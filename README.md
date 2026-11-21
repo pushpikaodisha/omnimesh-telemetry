@@ -72,3 +72,4 @@ Access the live dashboard at **http://localhost:8000**
 <!-- docs: enriched -->
 
 <!-- core: production-grade -->
+<!-- ui: fully-responsive -->
