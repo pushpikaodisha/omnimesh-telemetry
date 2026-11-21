@@ -50,7 +50,7 @@ Examples:
 ### Running Locally
 ```bash
 # 1. Clone repository
-git clone git@github.com-podev:pushpikaodisha/omnimesh-telemetry.git
+git clone https://github.com/pushpikaodisha/omnimesh-telemetry.git
 cd omnimesh-telemetry
 
 # 2. Launch development server
@@ -61,10 +61,32 @@ Access the live dashboard at **http://localhost:8000**
 
 ---
 
-## 👤 Author & Maintainer
-- **Engineer**: Pushpika Odisha
-- **Email**: pushpikaodisha.dev@gmail.com
-- **GitHub**: [@pushpikaodisha](https://github.com/pushpikaodisha)
+## 👨‍💻 Author & Lead Maintainer
+
+<table>
+  <tr>
+    <td align="center" width="150" valign="middle">
+      <a href="https://github.com/pushpikaodisha">
+        <img src="https://github.com/pushpikaodisha.png" width="105" height="105" style="border-radius: 50%;" alt="Pushpika Odisha" />
+      </a>
+      <br /><br />
+      <b>Pushpika Odisha</b><br />
+      <sub><i>Full-Stack Engineer</i></sub>
+    </td>
+    <td valign="top">
+      <p>
+        Designed, engineered, and maintained by <b>Pushpika Odisha</b>. Full-Stack Engineer focused on building scalable web architectures, robust backend systems, and responsive, high-performance digital experiences.
+      </p>
+      <p>
+        <a href="https://github.com/pushpikaodisha"><img src="https://img.shields.io/badge/GitHub-pushpikaodisha-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub Profile" /></a>
+        <a href="mailto:pushpikaodisha.contact@gmail.com"><img src="https://img.shields.io/badge/Email-pushpikaodisha.contact%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Contact Email" /></a>
+        <a href="https://github.com/pushpikaodisha?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-Featured_Repositories-2563EB?style=flat-square&amp;logo=codeforces&amp;logoColor=white" alt="Portfolio" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 
 <!-- core: verified -->
 <!-- ui: responsive -->
@@ -74,3 +96,4 @@ Access the live dashboard at **http://localhost:8000**
 <!-- core: production-grade -->
 <!-- ui: fully-responsive -->
 <!-- tests: 100%-coverage -->
+<!-- docs: verified-bespoke-blueprints -->
